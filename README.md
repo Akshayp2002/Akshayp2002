@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/akshay02"><img src="https://api.daily.dev/devcards/v2/3L0UdWPnrQ5k2OjmM0lQJ.png?r=gf4&type=default" width="356" alt="Akshay's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/akshay02"><img src="https://api.daily.dev/devcards/v2/3L0UdWPnrQ5k2OjmM0lQJ.png?r=gf4&type=default" width="356" alt="Akshay's Dev Card"/></a>-->
+
+<a href="https://app.daily.dev/akshay02"><img src="./devcard.png" width="356" alt="Akshay's Dev Card"/></a>
+
 
 <!--
 **Akshayp2002/Akshayp2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
