@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- <a href="https://app.daily.dev/akshay02"><img src="https://api.daily.dev/devcards/v2/3L0UdWPnrQ5k2OjmM0lQJ.png?r=gf4&type=default" width="356" alt="Akshay's Dev Card"/></a>-->
+ <a href="https://app.daily.dev/akshay02"><img src="https://api.daily.dev/devcards/v2/3L0UdWPnrQ5k2OjmM0lQJ.png?r=gf4&type=default" width="356" alt="Akshay's Dev Card"/></a>
 
 <a href="https://app.daily.dev/akshay02"><img src="https://github.com/Akshayp2002/Akshayp2002/blob/main/devcard.png" width="356" alt="Akshay's Dev Card"/></a>
 
