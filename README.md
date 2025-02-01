@@ -44,4 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
 </div>
 
+![](https://komarev.com/ghpvc/?username=Akshayp2002&color=green)
+
 
